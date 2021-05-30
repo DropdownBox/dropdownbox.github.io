@@ -1,0 +1,1 @@
+$(document).ready(function(){var e=document.getElementById("bgAudio");$(window).on("load",function(){preloaderFadeOutTime=500,$(".spinner-wrapper").fadeOut(preloaderFadeOutTime),e.play()}),$(".subtitle").typed({strings:["Incompetent","Professional Paste Team"],typeSpeed:100,startDelay:50,backSpeed:30,showCursor:!1})});
